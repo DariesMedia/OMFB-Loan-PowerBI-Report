@@ -1,4 +1,4 @@
-# Otumara-MFB-Loan-PowerBI-Report
+# Otumara-MFB-Loan-Application-Analysis
 
 Cleaning and analysing Otumara MFB Loan Application data as well as report design in PowerBI
 
