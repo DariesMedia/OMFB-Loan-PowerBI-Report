@@ -1,4 +1,4 @@
-# Otumara-MFB-Loan-Application-Analysis
+## Otumara-MFB-Loan-Application-Analysis
 
 Cleaning and analysing Otumara MFB Loan Application data as well as report design in PowerBI
 
@@ -14,4 +14,5 @@ After cleaning and analysing the data, attached below is the report.
 ![PowerBi Report](https://raw.githubusercontent.com/DariesMedia/OMFB-Loan-PowerBI-Report/main/OMFB_Loan_PowerBI_Report.jpg)
 
 ## Conclusion
-This was a fun project to work on. You can explore the interactive version of the report to see the full functionality and User Experience through the .pbix version of the report provided. 
+This was a fun project to work on. You can explore the interactive version of the report to see the full functionality and User Experience through the link provided below.
+[PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiMGQyZTQ1NzAtNzNjYS00ZjkwLThkZDItY2JmMjUwMzAwZTJlIiwidCI6IjQzZjFiNDVlLTIwODgtNGE4NS05MTE3LWM1ODhiODdiNDQwYSJ9)
